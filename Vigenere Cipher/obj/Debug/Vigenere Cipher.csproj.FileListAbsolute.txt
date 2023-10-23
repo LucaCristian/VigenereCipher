@@ -1,0 +1,6 @@
+D:\Stuff\Coding\Studies\Personal Projects\Vigenere Cipher\Vigenere Cipher\bin\Debug\Vigenere_Cipher.exe
+D:\Stuff\Coding\Studies\Personal Projects\Vigenere Cipher\Vigenere Cipher\bin\Debug\Vigenere_Cipher.pdb
+D:\Stuff\Coding\Studies\Personal Projects\Vigenere Cipher\Vigenere Cipher\obj\Debug\Vigenere Cipher.csproj.AssemblyReference.cache
+D:\Stuff\Coding\Studies\Personal Projects\Vigenere Cipher\Vigenere Cipher\obj\Debug\Vigenere Cipher.csproj.CoreCompileInputs.cache
+D:\Stuff\Coding\Studies\Personal Projects\Vigenere Cipher\Vigenere Cipher\obj\Debug\Vigenere_Cipher.exe
+D:\Stuff\Coding\Studies\Personal Projects\Vigenere Cipher\Vigenere Cipher\obj\Debug\Vigenere_Cipher.pdb
